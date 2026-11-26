@@ -1,29 +1,40 @@
 # Mission 03 — Understand the operating system
 
-> Complete this mission yourself. Replace each prompt with what you actually did, observed, and understood. Do not publish private details.
-
 ## 1. Task / objective
-Write the mission objective in your own words.
+Observe OS information, storage, processes, paths and file permissions, then describe OS responsibilities.
 
 ## 2. Work completed
-- Activities you personally completed:
-- Files or notes created:
+| Information | Privacy-safe observation |
+|---|---|
+| Operating system | macOS 27.0.1 (Darwin) |
+| Current account | Redacted; the username is not included in the repository |
+| Storage | The workspace volume reported 926 GiB total, 142 GiB used and 755 GiB available (16% used) |
+| Process snapshot | The `ps` command was blocked by workspace permissions; no process list is published |
+
+Apps visible in the workspace included a browser and a code editor. A process is a running instance of a program; a PID is the numeric identifier assigned to that instance.
+
+### Paths and permissions
+- Redacted absolute example: `[assignment-root]/mission-02-terminal/terminal-practice/notes.txt`
+- Relative example from the repository root: `mission-02-terminal/terminal-practice/notes.txt`
+- The practice file permission mode was `-rw-r--r--`. Its owner can read and write it, but the execute bit is not set.
+
+An operating system manages hardware resources, memory, files, running processes, permissions and the interface applications use to perform work.
 
 ## 3. Commands / tools used
-List only commands and tools you actually used, and what each did. Redact identifying output.
+`sw_vers` identified macOS; `df -h` reported storage totals; `ps -Ao pid,comm` was attempted once and returned “operation not permitted”; `stat` and `ls -l` showed file permissions. The username and full home path were redacted.
 
 ## 4. My understanding
-Explain the ideas in your own words. Include what you observed and why it matters.
+Add your own explanation of why the OS manages processes, files and permissions.
 
 ## 5. Difficulties faced
-Describe any errors or confusing steps. If none, write “No major difficulties.”
+The process-list command was blocked by the workspace's permissions.
 
 ## 6. How I resolved them
-Describe how you resolved each difficulty. If none, write “Not applicable.”
+The error was recorded without retrying. The account name and full path were kept out of the public repository.
 
 ## 7. Evidence / files
-List the work and privacy-safe evidence included here.
+- `mission-02-terminal/terminal-practice/notes.txt` (permissions and contents)
+- Safe OS and storage observations above
 
 ## 8. Commit details
-Commit message: [write the actual commit message]
-Pushed to GitHub: [yes/no after verifying]
+This reference draft still needs your own explanation before it can count as a completed mission commit.
