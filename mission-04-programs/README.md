@@ -1,29 +1,32 @@
 # Mission 04 — How programs run
 
-> Complete this mission yourself. Replace each prompt with what you actually did, observed, and understood. Do not publish private details.
-
 ## 1. Task / objective
-Write the mission objective in your own words.
+Run a small Python program and compare compiled and interpreted execution.
 
 ## 2. Work completed
-- Activities you personally completed:
-- Files or notes created:
+`hello.py` was run with Python 3.14.7 and printed:
+
+```text
+Hello, world!
+```
+
+A compiler translates source code into another form, often machine code, before execution. An interpreter executes instructions at runtime; Python commonly compiles source to bytecode and runs it on a virtual machine, so the simple compiler/interpreter distinction is an introduction rather than the whole implementation.
 
 ## 3. Commands / tools used
-List only commands and tools you actually used, and what each did. Redact identifying output.
+`python3 --version` reported Python 3.14.7. `python3 hello.py` ran the script.
 
 ## 4. My understanding
-Explain the ideas in your own words. Include what you observed and why it matters.
+Explain the difference in your own words and note what the output showed when you ran the program.
 
 ## 5. Difficulties faced
-Describe any errors or confusing steps. If none, write “No major difficulties.”
+Add any difficulty you actually faced, or “No major difficulties” if true.
 
 ## 6. How I resolved them
-Describe how you resolved each difficulty. If none, write “Not applicable.”
+Add your resolution or “Not applicable.”
 
 ## 7. Evidence / files
-List the work and privacy-safe evidence included here.
+- `hello.py`
+- Output shown above
 
 ## 8. Commit details
-Commit message: [write the actual commit message]
-Pushed to GitHub: [yes/no after verifying]
+This reference draft still needs your own explanation before it can count as a completed mission commit.
