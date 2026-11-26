@@ -23,3 +23,11 @@ Run the number converter from its mission folder with `python3 number_converter.
 - Add the actual safe observations and evidence you collected.
 - Check that no usernames, device names, emails, IP addresses, Wi-Fi names, passwords, or tokens are included.
 - Commit and push each mission separately, as required by the assignment.
+
+## My Learning
+
+- Add one idea you learned about computer input, processing, output, and storage.
+- Add one thing you learned from your own Terminal practice.
+- Add one thing you learned from the number converter or Git workflow.
+
+Replace these prompts with your own takeaways before the assignment is marked complete.
