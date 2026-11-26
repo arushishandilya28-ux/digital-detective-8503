@@ -15,7 +15,7 @@ The repository is public at `https://github.com/arushishandilya28-ux/digital-det
 | 03 Operating system | Redacted workspace observations present; add your own explanation |
 | 04 Programs | Hello program run; add your own comparison |
 | 05 Numbers and data | Converter tested; add manual work and your explanation |
-| 06 Git and GitHub | Branch, learning update and Pull Request not completed |
+| 06 Git and GitHub | `update-about` branch and draft PR #1 exist; personal learning points remain incomplete |
 | 07 Networking | Reference notes present; repeat lookup on your own network |
 | 08 Final report | Not ready for submission |
 
@@ -35,4 +35,4 @@ The blocked commands were recorded rather than retried. Repeat the DNS lookup on
 All mission READMEs, `hello.py`, `number_converter.py`, and the safe Terminal practice files.
 
 ## 8. Commit details
-The repository setup commits are visible on GitHub. Each completed mission still needs its own meaningful commit. The GitHub Pull Request activity is still pending. **Do not submit until these items and your own explanations are complete.**
+The repository setup commits are visible on GitHub. Each completed mission still needs its own meaningful commit. Draft PR #1 is visible and intentionally unmerged; replace learning prompts with your own takeaways before review. **Do not submit until these items and your own explanations are complete.**
