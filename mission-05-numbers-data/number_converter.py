@@ -1,5 +1,5 @@
 def main():
-    raw_value = input("Enter a positive decimal integer: ").strip()
+    raw_value = input("Enter a non-negative decimal integer: ").strip()
     try:
         number = int(raw_value)
         if number < 0:
