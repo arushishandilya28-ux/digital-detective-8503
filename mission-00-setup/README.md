@@ -34,7 +34,7 @@ Checked the GitHub profile menu, switched accounts, and verified the repository 
 ## 8. Commit details
 - `Add Digital Detective assignment overview`
 - `Add mission folders and starter programs`
+- `Record verified repository setup details`
 - Both commits are visible on the public `main` branch.
 
 Before submitting this mission, write section 4 in your own words and verify the tool versions on your own Terminal.
-
