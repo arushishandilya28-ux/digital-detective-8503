@@ -23,4 +23,3 @@ Run the number converter from its mission folder with `python3 number_converter.
 - Add the actual safe observations and evidence you collected.
 - Check that no usernames, device names, emails, IP addresses, Wi-Fi names, passwords, or tokens are included.
 - Commit and push each mission separately, as required by the assignment.
-
