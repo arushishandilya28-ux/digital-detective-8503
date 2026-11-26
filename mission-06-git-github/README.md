@@ -1,29 +1,39 @@
 # Mission 06 — Git and GitHub
 
-> Complete this mission yourself. Replace each prompt with what you actually did, observed, and understood. Do not publish private details.
-
 ## 1. Task / objective
-Write the mission objective in your own words.
+Explain the Git workflow and use a branch and Pull Request to propose a README learning update.
 
 ## 2. Work completed
-- Activities you personally completed:
-- Files or notes created:
+| Operation | Purpose |
+|---|---|
+| `git status` | Shows changed and untracked files |
+| `git add <file>` | Selects changes for the next commit |
+| `git commit` | Saves the staged snapshot in local history |
+| `git log` | Shows previous commits |
+| `git branch` | Lists or creates branches |
+| `git switch <branch>` | Changes the current branch |
+| `git push` | Publishes local commits to a remote |
+| `git pull` | Fetches and integrates remote changes |
+
+Staging selects which changes will be included; committing records those selected changes. A branch keeps proposed work separate. A Pull Request lets people review a branch's changes before integrating them.
+
+The required `update-about` branch and Pull Request remain to be created. Add 2–3 things you personally learned to the root README before opening the PR. Do not merge unless your instructor asks.
 
 ## 3. Commands / tools used
-List only commands and tools you actually used, and what each did. Redact identifying output.
+Git concepts above are a reference. Record only the Git commands you personally use for your learning branch and Pull Request.
 
 ## 4. My understanding
-Explain the ideas in your own words. Include what you observed and why it matters.
+Explain in your own words the difference between staging and committing, and why branches and Pull Requests help collaboration.
 
 ## 5. Difficulties faced
-Describe any errors or confusing steps. If none, write “No major difficulties.”
+Add any difficulty you actually faced, or “No major difficulties” if true.
 
 ## 6. How I resolved them
-Describe how you resolved each difficulty. If none, write “Not applicable.”
+Add your resolution or “Not applicable.”
 
 ## 7. Evidence / files
-List the work and privacy-safe evidence included here.
+- Root `README.md` learning update (still to be added)
+- `update-about` branch and Pull Request (still to be created)
 
 ## 8. Commit details
-Commit message: [write the actual commit message]
-Pushed to GitHub: [yes/no after verifying]
+No Mission 6 learning commit or Pull Request exists yet.
