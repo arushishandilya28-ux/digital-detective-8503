@@ -2,6 +2,8 @@
 
 This folder is a starter structure for the Diwali Digital Detective assignment. Fill in each mission using your own activities, observations, and explanations before submitting. The assignment requires a separate meaningful commit for each completed mission.
 
+> **Status: IN PROGRESS.** This repository still has reference prompts and missing personal observations. Do not submit it as a completed assignment.
+
 > This repository follows the assignment naming rule using the provided last-four-digit suffix: `digital-detective-8503`. Keep your full USN and other private details out of this public repository.
 
 ## Mission index
@@ -23,3 +25,4 @@ Run the number converter from its mission folder with `python3 number_converter.
 - Add the actual safe observations and evidence you collected.
 - Check that no usernames, device names, emails, IP addresses, Wi-Fi names, passwords, or tokens are included.
 - Commit and push each mission separately, as required by the assignment.
+
