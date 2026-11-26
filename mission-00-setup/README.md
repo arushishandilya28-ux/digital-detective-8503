@@ -1,29 +1,40 @@
 # Mission 00 — Create your GitHub workspace
 
-> Complete this mission yourself. Replace each prompt with what you actually did, observed, and understood. Do not publish private details.
-
 ## 1. Task / objective
-Write the mission objective in your own words.
+Prepare the assignment repository with the required name, mission folders, and root README.
 
 ## 2. Work completed
-- Activities you personally completed:
-- Files or notes created:
+- Created the public repository `digital-detective-8503` on the requested Arushi GitHub account.
+- Added the root README, all nine mission folders, and a README in each mission folder.
+- Added `hello.py` and `number_converter.py` as starter programs.
+- Kept student name and full USN out of the public repository.
 
 ## 3. Commands / tools used
-List only commands and tools you actually used, and what each did. Redact identifying output.
+- `python3 --version` — reported Python 3.14.7 in the workspace terminal.
+- `git --version` — reported Git 2.55.0 in the workspace terminal.
+- `git init`, `git add`, and `git commit` — initialized and recorded the local starter files.
+- GitHub — created the public repository and checked that its files and commits appeared.
 
 ## 4. My understanding
-Explain the ideas in your own words. Include what you observed and why it matters.
+Add your own explanation of what a repository stores and why the assignment is arranged in mission folders.
 
 ## 5. Difficulties faced
-Describe any errors or confusing steps. If none, write “No major difficulties.”
+The GitHub page initially showed a different account. No repository was created under it; the active account was switched to `arushishandilya28-ux` before creating the requested repository.
 
 ## 6. How I resolved them
-Describe how you resolved each difficulty. If none, write “Not applicable.”
+Checked the GitHub profile menu, switched accounts, and verified the repository owner before creating the public repository.
 
 ## 7. Evidence / files
-List the work and privacy-safe evidence included here.
+- Root `README.md`
+- `mission-00-setup/` through `mission-08-final-report/`
+- `mission-04-programs/hello.py`
+- `mission-05-numbers-data/number_converter.py`
+- Public repository: https://github.com/arushishandilya28-ux/digital-detective-8503
 
 ## 8. Commit details
-Commit message: [write the actual commit message]
-Pushed to GitHub: [yes/no after verifying]
+- `Add Digital Detective assignment overview`
+- `Add mission folders and starter programs`
+- Both commits are visible on the public `main` branch.
+
+Before submitting this mission, write section 4 in your own words and verify the tool versions on your own Terminal.
+
