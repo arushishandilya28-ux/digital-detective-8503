@@ -17,7 +17,7 @@ Explain the Git workflow and use a branch and Pull Request to propose a README l
 
 Staging selects which changes will be included; committing records those selected changes. A branch keeps proposed work separate. A Pull Request lets people review a branch's changes before integrating them.
 
-The required `update-about` branch and Pull Request remain to be created. Add 2–3 things you personally learned to the root README before opening the PR. Do not merge unless your instructor asks.
+The `update-about` branch is published and draft Pull Request #1 is open. Its root README section contains prompts, not personal takeaways. Replace them with 2–3 things you actually learned before requesting review. Do not merge unless your instructor asks.
 
 ## 3. Commands / tools used
 Git concepts above are a reference. Record only the Git commands you personally use for your learning branch and Pull Request.
@@ -33,7 +33,7 @@ Add your resolution or “Not applicable.”
 
 ## 7. Evidence / files
 - Root `README.md` learning update (still to be added)
-- `update-about` branch and Pull Request (still to be created)
+- `update-about` branch and draft Pull Request #1 (open and unmerged; personal learning text still needed)
 
 ## 8. Commit details
-No Mission 6 learning commit or Pull Request exists yet.
+Draft learning-update commit is on `update-about`; draft Pull Request #1 is open and unmerged. The personal learning points remain incomplete.
