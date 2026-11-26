@@ -1,0 +1,2 @@
+First line: created with output redirection.
+Second line: appended without replacing the first.
